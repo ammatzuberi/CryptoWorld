@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+
+}
+
+.hover-image {
+    transition: transform 0.3s ease;
+
+}
+
+.hover-image:hover {
+
+    /* transform: scale(1.1);
+    z */
+    /* Adjust the scale factor as needed to make it grow */
+}
